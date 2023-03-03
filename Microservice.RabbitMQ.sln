@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservice.RabbitMQ.Publisher", "Microservice.RabbitMQ.Publisher\Microservice.RabbitMQ.Publisher.csproj", "{6623476E-5784-4A07-B416-0F6CBFDB007C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrossCuttingLayer", "CrossCuttingLayer\CrossCuttingLayer.csproj", "{8503DE55-E9BA-4A3C-A579-7AD45FE6DC5C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservice.RabbitMQ.Consumer", "Microservice.RabbitMQ.Consumer\Microservice.RabbitMQ.Consumer.csproj", "{809A854D-89B3-4258-B096-64200CA0E93D}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{E1FFBEEE-F7DC-4478-96BC-836EB06E35F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6623476E-5784-4A07-B416-0F6CBFDB007C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6623476E-5784-4A07-B416-0F6CBFDB007C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6623476E-5784-4A07-B416-0F6CBFDB007C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6623476E-5784-4A07-B416-0F6CBFDB007C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8503DE55-E9BA-4A3C-A579-7AD45FE6DC5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8503DE55-E9BA-4A3C-A579-7AD45FE6DC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8503DE55-E9BA-4A3C-A579-7AD45FE6DC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8503DE55-E9BA-4A3C-A579-7AD45FE6DC5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{809A854D-89B3-4258-B096-64200CA0E93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809A854D-89B3-4258-B096-64200CA0E93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809A854D-89B3-4258-B096-64200CA0E93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809A854D-89B3-4258-B096-64200CA0E93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1FFBEEE-F7DC-4478-96BC-836EB06E35F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1FFBEEE-F7DC-4478-96BC-836EB06E35F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1FFBEEE-F7DC-4478-96BC-836EB06E35F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1FFBEEE-F7DC-4478-96BC-836EB06E35F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {181E2B33-57D1-472D-9655-14F6B9F613BC}
+	EndGlobalSection
+EndGlobal

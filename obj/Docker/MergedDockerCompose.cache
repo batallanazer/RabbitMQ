@@ -1,0 +1,16 @@
+services:
+  microservice.rabbitmq.publisher:
+    build:
+      context: C:\Users\Nazer\source\repos\Microservice.RabbitMQ
+      dockerfile: Microservice.RabbitMQ.Publisher/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: microservicerabbitmqpublisher
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\Nazer\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\Nazer\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  microservice.rabbitmq.publisher:
+    image: ${DOCKER_REGISTRY-}microservicerabbitmqpublisher
+    build:
+      context: .
+      dockerfile: Microservice.RabbitMQ.Publisher/Dockerfile

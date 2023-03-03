@@ -1,0 +1,12 @@
+C:\Users\Nazer\source\repos\Microservice.RabbitMQ\CrossCuttingLayer\bin\Debug\net6.0\CrossCuttingLayer.deps.json
+C:\Users\Nazer\source\repos\Microservice.RabbitMQ\CrossCuttingLayer\bin\Debug\net6.0\CrossCuttingLayer.dll
+C:\Users\Nazer\source\repos\Microservice.RabbitMQ\CrossCuttingLayer\bin\Debug\net6.0\CrossCuttingLayer.pdb
+C:\Users\Nazer\source\repos\Microservice.RabbitMQ\CrossCuttingLayer\obj\Debug\net6.0\CrossCuttingLayer.csproj.AssemblyReference.cache
+C:\Users\Nazer\source\repos\Microservice.RabbitMQ\CrossCuttingLayer\obj\Debug\net6.0\CrossCuttingLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazer\source\repos\Microservice.RabbitMQ\CrossCuttingLayer\obj\Debug\net6.0\CrossCuttingLayer.AssemblyInfoInputs.cache
+C:\Users\Nazer\source\repos\Microservice.RabbitMQ\CrossCuttingLayer\obj\Debug\net6.0\CrossCuttingLayer.AssemblyInfo.cs
+C:\Users\Nazer\source\repos\Microservice.RabbitMQ\CrossCuttingLayer\obj\Debug\net6.0\CrossCuttingLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nazer\source\repos\Microservice.RabbitMQ\CrossCuttingLayer\obj\Debug\net6.0\CrossCuttingLayer.dll
+C:\Users\Nazer\source\repos\Microservice.RabbitMQ\CrossCuttingLayer\obj\Debug\net6.0\refint\CrossCuttingLayer.dll
+C:\Users\Nazer\source\repos\Microservice.RabbitMQ\CrossCuttingLayer\obj\Debug\net6.0\CrossCuttingLayer.pdb
+C:\Users\Nazer\source\repos\Microservice.RabbitMQ\CrossCuttingLayer\obj\Debug\net6.0\ref\CrossCuttingLayer.dll

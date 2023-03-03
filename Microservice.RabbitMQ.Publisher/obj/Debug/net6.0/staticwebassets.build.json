@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CVgtWxS0wV0WykLPOW1LAhpeHdsp6X+rxpEh5WD77b0=",
+  "Source": "Microservice.RabbitMQ.Publisher",
+  "BasePath": "_content/Microservice.RabbitMQ.Publisher",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
